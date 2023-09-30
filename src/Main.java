@@ -11,12 +11,7 @@ public class helloworld {
 
             // Press Alt+Shift+D to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+Shift+B.
-            System.out.println("i = " + 2);
+            System.out.println("i = " + i);
         }
     }
 }
-
-
-for(condition){
-    //statement
-        }
